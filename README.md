@@ -9,6 +9,7 @@
 
 ### 🌸 About Me
 - 🔭 Currently learning **HTML, CSS, Git & GitHub**
+- 🌸 Currently exploring the art of logic through C++ — one cout at a time 💻✨ where logic meets elegance, just like meee 
 - 🌱 Passionate about clean UIs and creative storytelling through design
 - 📚 Slowly growing into the tech girl I once Googled ✨
 - 💬 Always down to chat about: design, journaling, and good code vibes
